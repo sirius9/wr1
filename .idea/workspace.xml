@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e078d60-7d98-4428-ad7d-f3176b2a3068" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/bikemap36.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bikemap36/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bikemap36/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bikemap36/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bikemap36/wsgi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/migrations/0001_initial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/migrations/0002_bikestatus_station_number.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/netgraph/views.py" />
-    </list>
+    <list default="true" id="0e078d60-7d98-4428-ad7d-f3176b2a3068" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
